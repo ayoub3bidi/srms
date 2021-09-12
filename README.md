@@ -15,3 +15,11 @@ npm run serve
 ```
 npm run build
 ```
+### Start database
+```
+mongo
+```
+### Start node server
+```
+nodemon
+```
