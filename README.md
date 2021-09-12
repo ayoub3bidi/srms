@@ -1,4 +1,5 @@
-# srms
+# S.R.M.S  
+It stands for Student Record Management System.
 
 ## Project setup
 ```
@@ -14,6 +15,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
